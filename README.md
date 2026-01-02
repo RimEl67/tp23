@@ -20,6 +20,6 @@ L’objectif est de comprendre le rôle de Consul comme **source de vérité** p
 
 <img width="1366" height="565" alt="image" src="https://github.com/user-attachments/assets/39905deb-46a0-4633-9e12-cbac51ee68c5" />
 
-<img width="1366" height="485" alt="image" src="https://github.com/user-attachments/assets/9b85c08c-3728-4bb1-bffe-0a8067d98dce" />
+<img width="1360" height="558" alt="image" src="https://github.com/user-attachments/assets/73b5fa36-d57a-4d20-9ab9-05f48a5bb8b1" />
 
-<img width="1366" height="545" alt="image" src="https://github.com/user-attachments/assets/f07daa20-cfcb-490a-aaeb-15440ee8e561" />
+<img width="1366" height="569" alt="image" src="https://github.com/user-attachments/assets/566dea39-f242-47e0-96ab-a6ca125ca527" />
